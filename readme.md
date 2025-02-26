@@ -6,7 +6,7 @@ This is a simple API that filters and sorts data from a JSON file. The API is bu
 Run the following commands to run this project locally
 ```bash
 git 
-cd RocketiumAssignment
+cd Data_Filtering_API
 cp .env.example .env
 npm install
 npm run dev
